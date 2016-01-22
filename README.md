@@ -5,6 +5,8 @@ UUDatePicker
 
 ####UUDatePicker have four style to select:
 
+日期时间插件
+
     UUDateStyle_YearMonthDayHourMinute,
     UUDateStyle_YearMonthDay,
     UUDateStyle_MonthDayHourMinute,
